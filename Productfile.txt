@@ -2,4 +2,4 @@ computer
 mobile
 laptops
 television
-printers
+
